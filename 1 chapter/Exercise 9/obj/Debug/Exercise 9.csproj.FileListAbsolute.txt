@@ -1,0 +1,5 @@
+C:\Users\silverstorm\source\repos\Exercise 9\bin\Debug\Exercise 9.exe.config
+C:\Users\silverstorm\source\repos\Exercise 9\bin\Debug\Exercise 9.exe
+C:\Users\silverstorm\source\repos\Exercise 9\bin\Debug\Exercise 9.pdb
+C:\Users\silverstorm\source\repos\Exercise 9\obj\Debug\Exercise 9.exe
+C:\Users\silverstorm\source\repos\Exercise 9\obj\Debug\Exercise 9.pdb
