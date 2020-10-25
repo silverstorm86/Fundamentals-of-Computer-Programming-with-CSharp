@@ -1,0 +1,5 @@
+D:\School\source\repos\5 chapter\Exerciae 5\bin\Debug\Exerciae 5.exe.config
+D:\School\source\repos\5 chapter\Exerciae 5\bin\Debug\Exerciae 5.exe
+D:\School\source\repos\5 chapter\Exerciae 5\bin\Debug\Exerciae 5.pdb
+D:\School\source\repos\5 chapter\Exerciae 5\obj\Debug\Exerciae 5.exe
+D:\School\source\repos\5 chapter\Exerciae 5\obj\Debug\Exerciae 5.pdb

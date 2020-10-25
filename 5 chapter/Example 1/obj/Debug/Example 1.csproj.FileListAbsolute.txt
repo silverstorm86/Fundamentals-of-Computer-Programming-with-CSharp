@@ -1,0 +1,6 @@
+C:\Users\silverstorm\source\repos\5 chapter\Example 1\bin\Debug\Example 1.exe.config
+C:\Users\silverstorm\source\repos\5 chapter\Example 1\bin\Debug\Example 1.exe
+C:\Users\silverstorm\source\repos\5 chapter\Example 1\bin\Debug\Example 1.pdb
+C:\Users\silverstorm\source\repos\5 chapter\Example 1\obj\Debug\Example 1.csprojAssemblyReference.cache
+C:\Users\silverstorm\source\repos\5 chapter\Example 1\obj\Debug\Example 1.exe
+C:\Users\silverstorm\source\repos\5 chapter\Example 1\obj\Debug\Example 1.pdb

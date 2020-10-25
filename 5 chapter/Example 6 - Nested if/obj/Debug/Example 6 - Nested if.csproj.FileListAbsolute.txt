@@ -1,0 +1,6 @@
+C:\Users\silverstorm\source\repos\5 chapter\Example 6 - Nested if\bin\Debug\Example 6 - Nested if.exe.config
+C:\Users\silverstorm\source\repos\5 chapter\Example 6 - Nested if\bin\Debug\Example 6 - Nested if.exe
+C:\Users\silverstorm\source\repos\5 chapter\Example 6 - Nested if\bin\Debug\Example 6 - Nested if.pdb
+C:\Users\silverstorm\source\repos\5 chapter\Example 6 - Nested if\obj\Debug\Example 6 - Nested if.csprojAssemblyReference.cache
+C:\Users\silverstorm\source\repos\5 chapter\Example 6 - Nested if\obj\Debug\Example 6 - Nested if.exe
+C:\Users\silverstorm\source\repos\5 chapter\Example 6 - Nested if\obj\Debug\Example 6 - Nested if.pdb

@@ -1,0 +1,6 @@
+C:\Users\silverstorm\source\repos\5 chapter\Example 8 - switch\bin\Debug\Example 8 - switch.exe.config
+C:\Users\silverstorm\source\repos\5 chapter\Example 8 - switch\bin\Debug\Example 8 - switch.exe
+C:\Users\silverstorm\source\repos\5 chapter\Example 8 - switch\bin\Debug\Example 8 - switch.pdb
+C:\Users\silverstorm\source\repos\5 chapter\Example 8 - switch\obj\Debug\Example 8 - switch.csprojAssemblyReference.cache
+C:\Users\silverstorm\source\repos\5 chapter\Example 8 - switch\obj\Debug\Example 8 - switch.exe
+C:\Users\silverstorm\source\repos\5 chapter\Example 8 - switch\obj\Debug\Example 8 - switch.pdb
