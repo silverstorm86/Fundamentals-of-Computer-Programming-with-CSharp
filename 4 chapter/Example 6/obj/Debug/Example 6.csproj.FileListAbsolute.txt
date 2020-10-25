@@ -1,0 +1,5 @@
+C:\Users\silverstorm\source\repos\4 chapter\Example 6\bin\Debug\Example 6.exe.config
+C:\Users\silverstorm\source\repos\4 chapter\Example 6\bin\Debug\Example 6.exe
+C:\Users\silverstorm\source\repos\4 chapter\Example 6\bin\Debug\Example 6.pdb
+C:\Users\silverstorm\source\repos\4 chapter\Example 6\obj\Debug\Example 6.exe
+C:\Users\silverstorm\source\repos\4 chapter\Example 6\obj\Debug\Example 6.pdb

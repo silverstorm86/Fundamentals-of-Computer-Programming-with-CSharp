@@ -1,0 +1,6 @@
+C:\Users\silverstorm\source\repos\4 chapter\Example 4 - Custom Numeric Formats\bin\Debug\Example 4 - Custom Numeric Formats.exe.config
+C:\Users\silverstorm\source\repos\4 chapter\Example 4 - Custom Numeric Formats\bin\Debug\Example 4 - Custom Numeric Formats.exe
+C:\Users\silverstorm\source\repos\4 chapter\Example 4 - Custom Numeric Formats\bin\Debug\Example 4 - Custom Numeric Formats.pdb
+C:\Users\silverstorm\source\repos\4 chapter\Example 4 - Custom Numeric Formats\obj\Debug\Example 4 - Custom Numeric Formats.exe
+C:\Users\silverstorm\source\repos\4 chapter\Example 4 - Custom Numeric Formats\obj\Debug\Example 4 - Custom Numeric Formats.pdb
+C:\Users\silverstorm\source\repos\4 chapter\Example 4 - Custom Numeric Formats\obj\Debug\Example 4 - Custom Numeric Formats.csprojAssemblyReference.cache

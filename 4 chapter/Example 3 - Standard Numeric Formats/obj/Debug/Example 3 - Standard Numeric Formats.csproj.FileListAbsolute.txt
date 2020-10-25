@@ -1,0 +1,5 @@
+C:\Users\silverstorm\source\repos\4 chapter\Example 3 - Standard Numeric Formats\bin\Debug\Example 3 - Standard Numeric Formats.exe.config
+C:\Users\silverstorm\source\repos\4 chapter\Example 3 - Standard Numeric Formats\bin\Debug\Example 3 - Standard Numeric Formats.exe
+C:\Users\silverstorm\source\repos\4 chapter\Example 3 - Standard Numeric Formats\bin\Debug\Example 3 - Standard Numeric Formats.pdb
+C:\Users\silverstorm\source\repos\4 chapter\Example 3 - Standard Numeric Formats\obj\Debug\Example 3 - Standard Numeric Formats.exe
+C:\Users\silverstorm\source\repos\4 chapter\Example 3 - Standard Numeric Formats\obj\Debug\Example 3 - Standard Numeric Formats.pdb
