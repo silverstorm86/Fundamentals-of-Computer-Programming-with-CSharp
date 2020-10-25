@@ -1,0 +1,5 @@
+C:\Users\silverstorm\source\repos\6 chapter\Example 7 - For loop\bin\Debug\Example 7 - For loop.exe.config
+C:\Users\silverstorm\source\repos\6 chapter\Example 7 - For loop\bin\Debug\Example 7 - For loop.exe
+C:\Users\silverstorm\source\repos\6 chapter\Example 7 - For loop\bin\Debug\Example 7 - For loop.pdb
+C:\Users\silverstorm\source\repos\6 chapter\Example 7 - For loop\obj\Debug\Example 7 - For loop.exe
+C:\Users\silverstorm\source\repos\6 chapter\Example 7 - For loop\obj\Debug\Example 7 - For loop.pdb

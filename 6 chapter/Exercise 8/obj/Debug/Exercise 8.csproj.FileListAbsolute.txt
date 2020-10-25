@@ -1,0 +1,7 @@
+\\DESKTOP-E9H4LQK\Users\silverstorm\source\repos\6 chapter\Exercise 8\bin\Debug\Exercise 8.exe.config
+\\DESKTOP-E9H4LQK\Users\silverstorm\source\repos\6 chapter\Exercise 8\bin\Debug\Exercise 8.exe
+\\DESKTOP-E9H4LQK\Users\silverstorm\source\repos\6 chapter\Exercise 8\bin\Debug\Exercise 8.pdb
+\\DESKTOP-E9H4LQK\Users\silverstorm\source\repos\6 chapter\Exercise 8\obj\Debug\Exercise 8.csprojAssemblyReference.cache
+\\DESKTOP-E9H4LQK\Users\silverstorm\source\repos\6 chapter\Exercise 8\obj\Debug\Exercise 8.csproj.CoreCompileInputs.cache
+\\DESKTOP-E9H4LQK\Users\silverstorm\source\repos\6 chapter\Exercise 8\obj\Debug\Exercise 8.exe
+\\DESKTOP-E9H4LQK\Users\silverstorm\source\repos\6 chapter\Exercise 8\obj\Debug\Exercise 8.pdb

@@ -1,0 +1,6 @@
+D:\School\C#\source\repos\6 chapter\Example 9 - foreach\bin\Debug\Example 9 - foreach.exe.config
+D:\School\C#\source\repos\6 chapter\Example 9 - foreach\bin\Debug\Example 9 - foreach.exe
+D:\School\C#\source\repos\6 chapter\Example 9 - foreach\bin\Debug\Example 9 - foreach.pdb
+D:\School\C#\source\repos\6 chapter\Example 9 - foreach\obj\Debug\Example 9 - foreach.csprojAssemblyReference.cache
+D:\School\C#\source\repos\6 chapter\Example 9 - foreach\obj\Debug\Example 9 - foreach.exe
+D:\School\C#\source\repos\6 chapter\Example 9 - foreach\obj\Debug\Example 9 - foreach.pdb

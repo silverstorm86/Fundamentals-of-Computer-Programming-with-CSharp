@@ -1,0 +1,6 @@
+D:\School\C#\source\repos\6 chapter\Example 10\bin\Debug\Example 10.exe.config
+D:\School\C#\source\repos\6 chapter\Example 10\bin\Debug\Example 10.exe
+D:\School\C#\source\repos\6 chapter\Example 10\bin\Debug\Example 10.pdb
+D:\School\C#\source\repos\6 chapter\Example 10\obj\Debug\Example 10.csprojAssemblyReference.cache
+D:\School\C#\source\repos\6 chapter\Example 10\obj\Debug\Example 10.exe
+D:\School\C#\source\repos\6 chapter\Example 10\obj\Debug\Example 10.pdb

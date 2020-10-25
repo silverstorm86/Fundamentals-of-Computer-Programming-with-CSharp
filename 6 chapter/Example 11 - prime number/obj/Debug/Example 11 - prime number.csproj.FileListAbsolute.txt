@@ -1,0 +1,5 @@
+D:\School\C#\source\repos\6 chapter\Example 11 - prime number\bin\Debug\Example 11 - prime number.exe.config
+D:\School\C#\source\repos\6 chapter\Example 11 - prime number\bin\Debug\Example 11 - prime number.exe
+D:\School\C#\source\repos\6 chapter\Example 11 - prime number\bin\Debug\Example 11 - prime number.pdb
+D:\School\C#\source\repos\6 chapter\Example 11 - prime number\obj\Debug\Example 11 - prime number.exe
+D:\School\C#\source\repos\6 chapter\Example 11 - prime number\obj\Debug\Example 11 - prime number.pdb

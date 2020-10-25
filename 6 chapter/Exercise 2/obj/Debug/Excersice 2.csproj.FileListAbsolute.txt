@@ -1,0 +1,5 @@
+D:\School\C#\source\repos\6 chapter\Excersice 2\bin\Debug\Excersice 2.exe.config
+D:\School\C#\source\repos\6 chapter\Excersice 2\bin\Debug\Excersice 2.exe
+D:\School\C#\source\repos\6 chapter\Excersice 2\bin\Debug\Excersice 2.pdb
+D:\School\C#\source\repos\6 chapter\Excersice 2\obj\Debug\Excersice 2.exe
+D:\School\C#\source\repos\6 chapter\Excersice 2\obj\Debug\Excersice 2.pdb

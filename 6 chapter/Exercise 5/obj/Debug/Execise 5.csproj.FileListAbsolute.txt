@@ -1,0 +1,6 @@
+C:\Users\silverstorm\source\repos\6 chapter\Execise 5\bin\Debug\Execise 5.exe.config
+C:\Users\silverstorm\source\repos\6 chapter\Execise 5\bin\Debug\Execise 5.exe
+C:\Users\silverstorm\source\repos\6 chapter\Execise 5\bin\Debug\Execise 5.pdb
+C:\Users\silverstorm\source\repos\6 chapter\Execise 5\obj\Debug\Execise 5.csprojAssemblyReference.cache
+C:\Users\silverstorm\source\repos\6 chapter\Execise 5\obj\Debug\Execise 5.exe
+C:\Users\silverstorm\source\repos\6 chapter\Execise 5\obj\Debug\Execise 5.pdb

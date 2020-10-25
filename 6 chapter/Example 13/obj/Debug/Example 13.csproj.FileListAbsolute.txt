@@ -1,0 +1,5 @@
+D:\School\C#\source\repos\6 chapter\Example 13\bin\Debug\Example 13.exe.config
+D:\School\C#\source\repos\6 chapter\Example 13\bin\Debug\Example 13.exe
+D:\School\C#\source\repos\6 chapter\Example 13\bin\Debug\Example 13.pdb
+D:\School\C#\source\repos\6 chapter\Example 13\obj\Debug\Example 13.exe
+D:\School\C#\source\repos\6 chapter\Example 13\obj\Debug\Example 13.pdb
