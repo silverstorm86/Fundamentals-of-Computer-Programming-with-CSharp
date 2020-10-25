@@ -1,0 +1,5 @@
+C:\Users\silverstorm\source\repos\2 chapter\Exercise 13\bin\Debug\Exercise 13.exe.config
+C:\Users\silverstorm\source\repos\2 chapter\Exercise 13\bin\Debug\Exercise 13.exe
+C:\Users\silverstorm\source\repos\2 chapter\Exercise 13\bin\Debug\Exercise 13.pdb
+C:\Users\silverstorm\source\repos\2 chapter\Exercise 13\obj\Debug\Exercise 13.exe
+C:\Users\silverstorm\source\repos\2 chapter\Exercise 13\obj\Debug\Exercise 13.pdb
