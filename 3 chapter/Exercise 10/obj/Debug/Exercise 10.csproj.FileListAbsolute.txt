@@ -1,0 +1,6 @@
+C:\Users\silverstorm\source\repos\3 chapter\Exercise 10\bin\Debug\Exercise 10.exe.config
+C:\Users\silverstorm\source\repos\3 chapter\Exercise 10\bin\Debug\Exercise 10.exe
+C:\Users\silverstorm\source\repos\3 chapter\Exercise 10\bin\Debug\Exercise 10.pdb
+C:\Users\silverstorm\source\repos\3 chapter\Exercise 10\obj\Debug\Exercise 10.csprojAssemblyReference.cache
+C:\Users\silverstorm\source\repos\3 chapter\Exercise 10\obj\Debug\Exercise 10.exe
+C:\Users\silverstorm\source\repos\3 chapter\Exercise 10\obj\Debug\Exercise 10.pdb
