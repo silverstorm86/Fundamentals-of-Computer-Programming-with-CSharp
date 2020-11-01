@@ -1,0 +1,7 @@
+C:\Users\silverstorm\source\repos\Fundamentals-of-Computer-Programming-with-CSharp\6 chapter\Exercise 11\bin\Debug\Exercise 11.exe.config
+C:\Users\silverstorm\source\repos\Fundamentals-of-Computer-Programming-with-CSharp\6 chapter\Exercise 11\bin\Debug\Exercise 11.exe
+C:\Users\silverstorm\source\repos\Fundamentals-of-Computer-Programming-with-CSharp\6 chapter\Exercise 11\bin\Debug\Exercise 11.pdb
+C:\Users\silverstorm\source\repos\Fundamentals-of-Computer-Programming-with-CSharp\6 chapter\Exercise 11\obj\Debug\Exercise 11.csprojAssemblyReference.cache
+C:\Users\silverstorm\source\repos\Fundamentals-of-Computer-Programming-with-CSharp\6 chapter\Exercise 11\obj\Debug\Exercise 11.csproj.CoreCompileInputs.cache
+C:\Users\silverstorm\source\repos\Fundamentals-of-Computer-Programming-with-CSharp\6 chapter\Exercise 11\obj\Debug\Exercise 11.exe
+C:\Users\silverstorm\source\repos\Fundamentals-of-Computer-Programming-with-CSharp\6 chapter\Exercise 11\obj\Debug\Exercise 11.pdb
